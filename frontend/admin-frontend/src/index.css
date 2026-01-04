@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* dark theme tokens */
+:root{
+  --neon: #34D399;
+  --accent: #7C3AED;
+}
+body{
+  background: #071018;
+  color: #E6EEF2;
+}
